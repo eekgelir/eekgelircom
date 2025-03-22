@@ -42,6 +42,7 @@ form{margin:0}/*a:active,.a:focus{background-color:transparent}*/.clear_l{clear:
 body{background:url(../images/zemin.jpg) center center;background-size:307px;}
 .logo{position:fixed;left:50%;top:50%;margin:-270px 0 0 -270px}
 .logo img{width:540px; height:540px;}
+.taslak img{display:block;width:100%;height:100%}
 
 
 /******* animasyon *******/	
