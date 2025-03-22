@@ -7,7 +7,7 @@ function siq(x){z=document.querySelectorAll(x);return z}
 
 
 jQuery(document).ready(function() {
-	if(window.innerWidth <= 800){window.scrollTo(0, 56);$("body").css("padding-top","56px");mobil=1}
+	if(window.innerWidth <= 800){/*window.scrollTo(0, 56);$("body").css("padding-top","56px");mobil=1*/}
 	else{
 		$(window).scroll(function() {
 			level=$(window).scrollTop()
